@@ -29,3 +29,25 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers
+
+1. Git is the shared terminal
+
+2. Bash is the home terminal
+
+3. cd
+
+4. linter is formatting of text. It helps to make things pretty
+
+5. 'SyntaxError' means there is a problem with the code
+
+6. const, let
+
+7. npm is the Project Manager
+
+8. Java Script Object Notation
+
+9. The Project is downloaded to the terminal
+
+10. object, number, boolean
