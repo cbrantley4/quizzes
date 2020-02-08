@@ -32,22 +32,22 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 ## Answers
 
-1. Git is the shared terminal
+1. VCS
 
-2. Bash is the home terminal
+2. program installed on most terminal emulators
 
 3. cd
 
-4. linter is formatting of text. It helps to make things pretty
+4. finds and fixes bug
 
-5. 'SyntaxError' means there is a problem with the code
+5. 'SyntaxError' means there was a typo
 
 6. const, let
 
-7. npm is the Project Manager
+7. npm is the Node Package Manager
 
 8. Java Script Object Notation
 
-9. The Project is downloaded to the terminal
+9. The Package Manager is downloaded to the terminal emulator
 
-10. object, number, boolean
+10. string, number, boolean
